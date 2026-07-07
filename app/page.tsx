@@ -30,17 +30,17 @@ export default function Home() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Hosein Ghasemizade. All rights reserved.
+              © {new Date().getFullYear()} Xein Ghasemi. All rights reserved.
             </p>
           </div>
           <div className="flex items-center gap-4">
-            <Link href="https://t.me/HOSGZ" target="_blank" rel="noopener noreferrer">
+            <Link href="https://t.me/realxein" target="_blank" rel="noopener noreferrer">
               <Button variant="ghost" size="icon">
                 <Send className="h-5 w-5" />
                 <span className="sr-only">Telegram</span>
               </Button>
             </Link>
-            <Link href="https://github.com/ghasemizade" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/mrxein" target="_blank" rel="noopener noreferrer">
               <Button variant="ghost" size="icon">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>

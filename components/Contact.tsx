@@ -34,12 +34,12 @@ export default function Contact() {
                         <div className="flex items-center gap-3">
                             <Github className="h-5 w-5 text-primary" />
                             <a
-                                href="https://github.com/ghasemizade"
+                                href="https://github.com/mrxein"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="hover:text-primary"
                             >
-                                github.com/ghasemizade
+                                github.com/mrxein
                             </a>
                         </div>
                     </CardContent>
